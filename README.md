@@ -13,9 +13,8 @@ Build a machine learning model to predict hiring outcomes.
 
 # Dataset:
 The dataset contains 1,000 rows and 11 columns.
-Target variable: Recruiter Decision
-Hire
-Reject
+Key features: Skills, Experience, Education, Certifications, Job Role, Salary Expectation, Projects Count, and AI Score.
+Target variable: Recruiter Decision — Hire or Reject.
 
 # Technologies Used:
 Python
@@ -23,3 +22,6 @@ Pandas and NumPy
 Matplotlib and Seaborn
 Scikit-learn
 Google Colab
+
+# Expected Outcome
+A machine learning workflow for predicting hiring decisions from candidate-related features, demonstrating the application of data analysis and predictive modeling to recruitment.
